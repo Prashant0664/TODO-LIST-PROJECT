@@ -13,4 +13,4 @@ This to-do list app shows the today's date to the user.
 https://user-images.githubusercontent.com/98750053/168657191-b765bfe1-4ac9-4238-96c0-e1ca491efd25.mp4
 
 
-[Screenshot](https://user-images.githubusercontent.com/98750053/168658744-67db6b52-035d-457f-8add-424e20f67dfb.png)
+![Screenshot (258)](https://user-images.githubusercontent.com/98750053/168658951-059166eb-536f-4f35-ac04-9e5a4b526eeb.png)
